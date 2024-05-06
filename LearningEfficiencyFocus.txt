@@ -1,0 +1,25 @@
+How can you change the layout of the lists from top-down to having three columns?
+
+in main.css:
+.details{
+    display:flex;
+    flex-direction: row;
+}
+
+
+How can you sort each list of names alphabetically?
+
+
+
+
+How would your ERD change if the customer had the following, new requirement?
+Each dock will only service some of the hauling ships because of contracts with their companies. 
+For example, Rotterdam will only service "Seawise Giant" and "Pioneering Spirit", 
+and Busan will service "Seawise Giant" and "Boaty McBoatface". Each hauling ship can be serviced by many docks, 
+and each dock can service one, or more, hauling ships. 
+You need to keep track of the allowed relationships in your database.
+
+
+
+
+What is structuredClone() in JavaScript, and how could it be used in your project?
